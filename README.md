@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Git%20SoYun✨&fontSize=70"/>
 <div align=center>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGitSoyun&count_bg=%23FF9F9F&title_bg=%23FF9F9F&icon=baidu.svg&icon_color=%23FFFFFF&title=today%2Ftotal&edge_flat=false"/>
   <br/>
@@ -11,8 +12,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/>
   <br/>
   <br/>
   ... ing ...🌱
