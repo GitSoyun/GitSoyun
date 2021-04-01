@@ -19,9 +19,6 @@
   ... ing ...🌱
   <br/>
   <br/>
-  💪 Life without Learning is Death.
-  <br/>
-  <br/>
   👸 SO.YUN 💘💖💕💞💗
   <br/>
   <br/>
