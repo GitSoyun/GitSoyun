@@ -13,6 +13,9 @@
   <br/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe&logoColor=white"/>
+  ...ing..🌱
+  <br/>
+  💪 Life without Learning is Death.
   <br/>
   <br/>
   👸 SO.YUN 💘💖💕💞💗
