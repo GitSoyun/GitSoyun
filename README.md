@@ -1,6 +1,7 @@
 <div align=center>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGitSoyun&count_bg=%23FF9F9F&title_bg=%23FF9F9F&icon=baidu.svg&icon_color=%23FFFFFF&title=today%2Ftotal&edge_flat=false"/></a>
   <br/>
+  <br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -15,6 +16,7 @@
   <br/>
   <br/>
   👸 SO.YUN 💘💖💕💞💗
+  <br/>
   <br/>
   <a href="https://github.com/GitSoyun" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
   <a href="https://blog.naver.com/pinktenshi" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;
