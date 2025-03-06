@@ -28,7 +28,7 @@
   <br/>
   <a href="https://github.com/gitsoyun" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
   <a href="https://blog.naver.com/so_yuns" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp;
-  <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<!--  <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> --!>
   <br/>
   <br/>
   <!-- counter -->
