@@ -32,7 +32,7 @@
   <br/>
   <br/>
   <!-- counter -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGitSoyun&count_bg=%23FF9F9F&title_bg=%23FF9F9F&icon=baidu.svg&icon_color=%23FFFFFF&title=today%2Ftotal&edge_flat=false"/>
+  <img src="https://hits.sh/github.com/GitSoyun.svg?view=today-total&label=%E2%99%A5%20today%2Ftotal&color=FFC0CB&labelColor=9c9c9c"/>
 </div>
 
 
