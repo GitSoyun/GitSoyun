@@ -32,7 +32,7 @@
   <br/>
   <br/>
   <!-- counter -->
-  <img src="https://hits.sh/github.com/GitSoyun.svg?view=today-total&label=%E2%99%A5%20today%2Ftotal&color=FFC0CB&labelColor=9c9c9c"/>
+ <a href="https://hits.sh/github.com/GitSoyun/"><img art="Hits" src="https://hits.sh/github.com/GitSoyun.svg?view=today-total&label=%E2%99%A5%20today%2Ftotal&color=FFC0CB&labelColor=9c9c9c"/>
 </div>
 
 
